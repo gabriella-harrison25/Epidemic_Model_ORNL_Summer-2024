@@ -1,4 +1,4 @@
-# More Information About the Code
+# Python Code Specifics - Function Information
 
 ## Functions <br>
 ### sir_system_implicit <br>
