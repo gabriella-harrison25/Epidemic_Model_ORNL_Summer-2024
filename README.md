@@ -22,7 +22,8 @@ Recovered - the population who has already caught and recovered from the disease
 Dead - the population who caught the disease and died from it <br>
 Vaccinated - the population who has gotten a vaccine for this disease <br>
 
-FLOW CHART HERE
+<img width="440" height="293" alt="Screenshot 2026-09-24 114803" src="https://github.com/user-attachments/assets/a7013926-31e1-4eec-9b1b-17b0e1d02369" />
+
 
 ### Beta - an interaction matrix <br>
 A 3x3 contact matrix showing group-by-group interaction rates. <br>
